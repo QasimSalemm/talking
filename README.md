@@ -23,9 +23,17 @@ Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.g
 ### Google Colab & Kaggle
 
 The easiest way to run this project is on Google Colab or Kaggle with a GPU. 
-1. Click the **Open In Colab** or **Open In Kaggle** badge above.
-2. In Colab, go to **Runtime** > **Change runtime type** and select **T4 GPU**. In Kaggle, ensure a GPU is enabled in the notebook settings.
+
+**For Google Colab:**
+1. Click the **Open In Colab** badge above.
+2. Go to **Runtime** > **Change runtime type** and select **T4 GPU**.
 3. Run all cells sequentially.
+
+**For Kaggle:**
+1. Click the **Open In Kaggle** badge above.
+2. In the right sidebar, ensure **Internet** is toggled **On**.
+3. In the right sidebar, select **GPU T4 x2** or **GPU P100** under **Accelerator**.
+4. Run all cells sequentially.
 
 ### Local Installation
 
