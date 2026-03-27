@@ -52,7 +52,3 @@ For local use, follow these steps:
 The models are automatically downloaded in the Colab notebook. For local use, you can download them from Hugging Face:
 - [SoulX-FlashHead-1_3B](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)
 - [wav2vec2-base-960h](https://huggingface.co/facebook/wav2vec2-base-960h)
-
-## 💬 Acknowledgement
-
-This project is built upon the excellent work of [Soul-AILab](https://github.com/Soul-AILab/SoulX-FlashHead).
