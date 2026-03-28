@@ -4,9 +4,9 @@ SoulX-FlashHead is a real-time, audio-driven talking head generation system. It 
 
 ---
 
-Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead.ipynb)
+Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead_colab.ipynb)
 
-Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo.ipynb) 
+Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb) 
 
 ---
 
