@@ -4,9 +4,9 @@ SoulX-FlashHead is a real-time, audio-driven talking head generation system. It 
 
 ---
 
-Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/SoulX_FlashHead.ipynb)
+Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead.ipynb)
 
-Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/Image_Turbo.ipynb)
+Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo.ipynb) 
 
 ---
 
@@ -20,20 +20,12 @@ Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.g
 
 ## 🚀 Getting Started
 
-### Google Colab & Kaggle
+### Google Colab
 
-The easiest way to run this project is on Google Colab or Kaggle with a GPU. 
-
-**For Google Colab:**
+The easiest way to run this project is on Google Colab with a free T4 GPU. 
 1. Click the **Open In Colab** badge above.
-2. Go to **Runtime** > **Change runtime type** and select **T4 GPU**.
+2. In Colab, go to **Runtime** > **Change runtime type** and select **T4 GPU**.
 3. Run all cells sequentially.
-
-**For Kaggle:**
-1. Click the **Open In Kaggle** badge above.
-2. In the right sidebar, ensure **Internet** is toggled **On**.
-3. In the right sidebar, select **GPU T4 x2** or **GPU P100** under **Accelerator**.
-4. Run all cells sequentially.
 
 ### Local Installation
 
