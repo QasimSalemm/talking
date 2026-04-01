@@ -8,7 +8,7 @@ Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/asse
 
 Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/Image_Turbo_kaggle.ipynb)
 
-Generate Voice -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/voice_generator_kaggle.ipynb)
+Generate Voice -> 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/voice_generator_kaggle.ipynb)
 ---
 
 ## ⚡ Features
