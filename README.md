@@ -10,6 +10,9 @@ Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.g
 
 Generate Voice 9:16 -> [![Generate Voice Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/voice_generator_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/voice_generator_kaggle.ipynb)
 
+Generate Voice 9:16 -> [![Generate Video Enhancer In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_kolab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_kaggle.ipynb)
+
+Generate Voice 9:16 -> [![Generate RTX video generator In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/ltx-2-3-22b-kaggle-p100.ipynb)
 ---
 
 ## ⚡ Features
