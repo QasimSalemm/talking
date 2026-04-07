@@ -1,18 +1,12 @@
 # SoulX-FlashHead: AI Talking Head Generator
 
 SoulX-FlashHead is a real-time, audio-driven talking head generation system. It can animate a portrait image based on any speech input, providing high-quality, synchronized facial movements.
-
 ---
 
-Generate video 9:16 -> [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/SoulX_FlashHead_kaggle.ipynb)
-
-Generate Image 9:16 -> [![Generate Image Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/Image_Turbo_kaggle.ipynb)
-
-Generate Voice 9:16 -> [![Generate Voice Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/voice_generator_colab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/voice_generator_kaggle.ipynb)
-
-Generate Voice 9:16 -> [![Generate Video Enhancer In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_kolab.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_kaggle.ipynb)
-
 Generate Voice 9:16 -> [![Generate RTX video generator In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/ltx-2-3-22b-kaggle-p100.ipynb)
+
+LTX-Video (13B GGUF) -> [![LTX-Video GGUF Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/LTX_Video_GGUF_Colab.ipynb)
+
 ---
 
 ## ⚡ Features
