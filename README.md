@@ -17,12 +17,10 @@ Generate realistic AI voices easily.
 
 ---
 
-## 🎬 LTX Video Generator (13B GGUF)
+## 🎬 LTX Video Generator (22B GGUF)
 
 Create AI-generated videos using LTX models.
 
-- **Colab Version**  
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/LTX_Video_GGUF_Colab.ipynb)
 
 - **Kaggle (P100 Optimized)**  
   [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/ltx-2-3-22b-kaggle-p100.ipynb)
