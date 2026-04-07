@@ -1,56 +1,81 @@
-# SoulX-FlashHead: AI Talking Head Generator
+# 🚀 AI Video & Media Tools Collection
 
-SoulX-FlashHead is a real-time, audio-driven talking head generation system. It can animate a portrait image based on any speech input, providing high-quality, synchronized facial movements.
----
-
-Generate Voice 9:16 -> [![Generate RTX video generator In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/ltx-2-3-22b-kaggle-p100.ipynb)
-
-LTX-Video (13B GGUF) -> [![LTX-Video GGUF Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/LTX_Video_GGUF_Colab.ipynb)
+A collection of powerful AI tools for **video generation, enhancement, voice creation, and image processing**.  
+Click any tool below to open and run instantly in **Google Colab** or **Kaggle**.
 
 ---
 
-## ⚡ Features
+## 🎤 Voice Generation
 
-- **Lite & Pro Modes**: Choose between high speed (Lite) or high quality (Pro).
-- **Real-time Performance**: Optimized for fast generation on modern GPUs (96 FPS on RTX 409).
-- **Face Detection Fix**: Custom OpenAI-based face handler to replace broken mediapipe dependencies, ensuring stable inference on Linux/Colab.
-- **Aspect Ratio support**: Patched for 16:9 and other resolutions with automated compositing.
-- **Easy UI**: Built-in Gradio web interface with public URL sharing.
+Generate realistic AI voices easily.
 
-## 🚀 Getting Started
+- **Colab Version**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/voice_generator_colab.ipynb)
 
-### Google Colab & Kaggle
+- **Kaggle Version**  
+  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/voice_generator_kaggle.ipynb)
 
-The easiest way to run this project is on Google Colab or Kaggle with a GPU (T4 recommended).
-1. Click the **Open In Colab** or **Open In Kaggle** badge above.
-2. In Colab, go to **Runtime** > **Change runtime type** and select **T4 GPU**.
-3. In Kaggle, ensure:
-   - **GPU** is enabled (Right sidebar > Accelerator > T4 x2 or T4).
-   - **Internet** is switched **ON** (Right sidebar > Internet on/off). ⚠️ *Required to download models and dependencies.*
-4. Run all cells sequentially.
+---
 
-### Local Installation
+## 🎬 LTX Video Generator (13B GGUF)
 
-For local use, follow these steps:
+Create AI-generated videos using LTX models.
 
-1. **Environment Setup**:
-   ```bash
-   conda create -n flashhead python=3.10
-   conda activate flashhead
-   ```
+- **Colab Version**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/LTX_Video_GGUF_Colab.ipynb)
 
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+- **Kaggle (P100 Optimized)**  
+  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/ltx-2-3-22b-kaggle-p100.ipynb)
 
-3. **Run the App**:
-   ```bash
-   python gradio_app.py
-   ```
+---
 
-## 📥 Model Weights
+## 🖼️ Image Turbo Generator
 
-The models are automatically downloaded in the Colab notebook. For local use, you can download them from Hugging Face:
-- [SoulX-FlashHead-1_3B](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)
-- [wav2vec2-base-960h](https://huggingface.co/facebook/wav2vec2-base-960h)
+Fast AI image generation tool.
+
+- **Colab Version**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/Image_Turbo_colab.ipynb)
+
+- **Kaggle Version**  
+  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/Image_Turbo_kaggle.ipynb)
+
+---
+
+## 🎥 Video Enhancement (RealESRGAN)
+
+Upscale and enhance video quality using AI.
+
+- **Colab Version**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_colab.ipynb)
+
+- **Kaggle Version**  
+  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/RealESRGAN_Video_Enhancement_kaggle.ipynb)
+
+---
+
+## 🧠 SoulX FlashHead (Talking Head AI)
+
+Generate talking head / face animation videos.
+
+- **Colab Version**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QasimSalemm/talking/blob/main/SoulX_FlashHead_colab.ipynb)
+
+- **Kaggle Version**  
+  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/QasimSalemm/talking/blob/main/SoulX_FlashHead_kaggle.ipynb)
+
+---
+
+## 📂 Repository Structure
+
+```text
+📁 Project Files
+├── Image_Turbo_colab.ipynb
+├── Image_Turbo_kaggle.ipynb
+├── RealESRGAN_Video_Enhancement_colab.ipynb
+├── RealESRGAN_Video_Enhancement_kaggle.ipynb
+├── voice_generator_colab.ipynb
+├── voice_generator_kaggle.ipynb
+├── SoulX_FlashHead_colab.ipynb
+├── SoulX_FlashHead_kaggle.ipynb
+├── ltx-2-3-22b-kaggle-p100.ipynb
+└── README.md
